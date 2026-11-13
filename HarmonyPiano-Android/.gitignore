@@ -1,0 +1,4 @@
+build/
+.signing/
+node_modules/
+*.apk

@@ -1,0 +1,6 @@
+* text=auto
+*.png binary
+*.mp3 binary
+*.wav binary
+*.apk binary
+*.ps1 text eol=crlf

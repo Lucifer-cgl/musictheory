@@ -1,0 +1,48 @@
+# Publish only the two application projects and repository documentation.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/harmony-lab/
+!/HarmonyPiano-Android/
+
+# Existing nested repository metadata and local hosting configuration.
+**/.git/
+**/.openai/
+
+# Dependencies, generated build output and test artifacts.
+**/node_modules/
+**/build/
+**/qa-output/
+**/test-results/
+**/playwright-report/
+**/exports/
+**/__pycache__/
+**/*.pyc
+**/*.log
+**/.DS_Store
+**/Thumbs.db
+
+# Private signing material, environment files and machine configuration.
+**/.signing/
+**/.env
+**/.env.*
+**/*.keystore
+**/*.jks
+**/*.pem
+**/*.p12
+**/local.properties
+
+# Installers belong to GitHub Releases, never to source history.
+**/*.apk
+**/*.aab
+**/*.idsig
+**/*.zip
+**/*.tar.gz
+
+# Older Android copy and redundant generated artwork; authoritative app is top-level.
+/harmony-lab/android-piano/
+/harmony-lab/dist/assets/learning-miniatures.png
+
+# Local implementation notes, superseded by the public READMEs.
+/HarmonyPiano-Android/功能与实现说明.md

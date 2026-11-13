@@ -1,0 +1,17 @@
+{
+  "name": "harmony-lab",
+  "version": "1.0.0",
+  "description": "Interactive music theory garden",
+  "main": "index.js",
+  "scripts": {
+    "test": "node verify-distance.cjs && node verify-extensions.cjs && node verify-polish.cjs && node verify-songbook.cjs && node verify-card-art.cjs && node verify-local-vocal.cjs && node verify-continuous-piano.cjs && node verify-fullscreen-piano.cjs && node verify-pocket-chords.cjs && node verify-sustain.cjs && node verify-web-slider.cjs",
+    "start": "python -m http.server 4173 --bind 127.0.0.1 --directory dist",
+    "test:android": "node verify-android-piano.cjs && node verify-keyboard-slider.cjs && node verify-88-keys.cjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.65.0"
+  }
+}

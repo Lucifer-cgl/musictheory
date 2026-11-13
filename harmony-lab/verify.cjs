@@ -1,0 +1,31 @@
+const { chromium } = require('@playwright/test');
+const fs = require('node:fs');
+(async()=>{
+ const browser=await chromium.launch({headless:true,...(process.env.PLAYWRIGHT_CHROMIUM_EXECUTABLE?{executablePath:process.env.PLAYWRIGHT_CHROMIUM_EXECUTABLE}:{})});
+ const page=await browser.newPage({viewport:{width:1440,height:1000}});
+ const errors=[];page.on('pageerror',e=>errors.push(e.message));
+ const response=await page.goto('http://127.0.0.1:4173');if(response.status()!==200)throw Error('HTTP failed');
+ await page.locator('#keyboard .key').first().waitFor();
+ const assert=(condition,message)=>{if(!condition)throw Error(message)};
+ assert(await page.locator('.key.selected').count()===3,'C major selection');
+ await page.locator('[data-chord="minor"]').click();
+ assert((await page.locator('#formula').innerText()).includes('E♭'),'C minor spelling');
+ await page.selectOption('#root','1');await page.locator('[data-chord="major"]').click();
+ assert((await page.locator('#formula').innerText()).includes('F'),'D flat major third');
+ await page.selectOption('#root','6');
+ assert((await page.locator('#formula').innerText()).includes('A♯'),'F sharp spelling');
+ await page.locator('#play').click();assert((await page.locator('#audioStatus').innerText()).includes('正在聆听'),'Audio startup');
+ await page.locator('#search').fill('半减');assert(await page.locator('#chordTable tr').count()===1,'Search filter');
+ await page.locator('[data-explore="m7b5"]').click();assert(await page.locator('#chordSymbol').innerText()==='Cm7♭5','Dictionary selection');
+ await page.locator('#search').fill('');await page.locator('[data-filter="seventh"]').click();assert(await page.locator('#chordTable tr').count()===5,'Seventh count');
+ await page.locator('[data-lesson="3"]').click();assert((await page.locator('#lessonNote').innerText()).includes('属功能'),'Lesson interaction');
+ await page.locator('#themeButton').click();await page.locator('[data-theme="monet"]').click();await page.reload();assert(await page.locator('body').getAttribute('data-theme')==='monet','Theme persists');
+ await page.locator('#playProgression').click();await page.waitForFunction(()=>document.querySelector('#playProgression').disabled===false,{},{timeout:10000});
+ fs.mkdirSync('qa-output',{recursive:true});
+ for(const t of ['garden','monet','mist']){await page.locator('#themeButton').click();await page.locator(`[data-theme="${t}"]`).click();await page.evaluate(()=>scrollTo(0,0));await page.screenshot({path:`qa-output/${t}-desktop.png`,fullPage:true});}
+ await page.setViewportSize({width:390,height:844});await page.reload();await page.screenshot({path:'qa-output/mobile.png',fullPage:true});
+ assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'Mobile page overflow');
+ assert(errors.length===0,errors.join('\n'));
+ console.log('PASS: spelling, selected keys, audio startup, search, filters, dictionary, lessons, theme persistence, progression, mobile width; no browser errors.');
+ await browser.close();
+})().catch(e=>{console.error(e);process.exit(1)});

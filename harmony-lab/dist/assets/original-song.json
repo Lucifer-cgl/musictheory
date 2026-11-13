@@ -1,0 +1,1814 @@
+{
+  "title": "把脚步还给自己",
+  "credit": "本站原创词曲与钢琴编配 · 女声弹唱设计",
+  "tempo": 66,
+  "meter": "4/4",
+  "key": "C",
+  "description": "由 A 小调色彩出发，在 C 大调的开放和声中停下。没有胜利式高潮，只有逐渐恢复的行动与回应。",
+  "sections": [
+    {
+      "name": "前奏 · 留白",
+      "type": "instrumental",
+      "bars": [
+        {
+          "chord": "viadd9",
+          "style": "broken",
+          "lyric": "",
+          "melody": [
+            {
+              "degree": 6,
+              "octave": -1,
+              "beats": 1,
+              "lyric": ""
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 1,
+              "lyric": ""
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 1,
+              "lyric": ""
+            },
+            {
+              "degree": 1,
+              "octave": 0,
+              "beats": 1,
+              "lyric": ""
+            }
+          ]
+        },
+        {
+          "chord": "ii7",
+          "style": "broken",
+          "lyric": "",
+          "melody": [
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 1,
+              "lyric": ""
+            },
+            {
+              "degree": 4,
+              "octave": 0,
+              "beats": 1,
+              "lyric": ""
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 1,
+              "lyric": ""
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 1,
+              "lyric": ""
+            }
+          ]
+        },
+        {
+          "chord": "iii7",
+          "style": "broken",
+          "lyric": "",
+          "melody": [
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 1,
+              "lyric": ""
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 1,
+              "lyric": ""
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 1,
+              "lyric": ""
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 1,
+              "lyric": ""
+            }
+          ]
+        },
+        {
+          "chord": "viadd9",
+          "style": "broken",
+          "lyric": "",
+          "melody": [
+            {
+              "degree": 1,
+              "octave": 0,
+              "beats": 1,
+              "lyric": ""
+            },
+            {
+              "degree": 7,
+              "octave": -1,
+              "beats": 1,
+              "lyric": ""
+            },
+            {
+              "degree": 6,
+              "octave": -1,
+              "beats": 2,
+              "lyric": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "主歌 · 停在原地",
+      "type": "vocal",
+      "bars": [
+        {
+          "chord": "viadd9",
+          "style": "broken",
+          "lyric": "把钟声折进抽屉",
+          "melody": [
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "把"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "钟"
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 1,
+              "lyric": "声"
+            },
+            {
+              "degree": 1,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "折"
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "进"
+            },
+            {
+              "degree": 1,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "抽"
+            },
+            {
+              "degree": 6,
+              "octave": -1,
+              "beats": 0.5,
+              "lyric": "屉"
+            }
+          ]
+        },
+        {
+          "chord": "IVmaj7",
+          "style": "broken",
+          "lyric": "让明天暂时缺席",
+          "melody": [
+            {
+              "degree": 1,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "让"
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "明"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 1,
+              "lyric": "天"
+            },
+            {
+              "degree": 4,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "暂"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "时"
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "缺"
+            },
+            {
+              "degree": 1,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "席"
+            }
+          ]
+        },
+        {
+          "chord": "ii7",
+          "style": "broken",
+          "lyric": "空着的位置太轻",
+          "melody": [
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "空"
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "着"
+            },
+            {
+              "degree": 4,
+              "octave": 0,
+              "beats": 1,
+              "lyric": "的"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "位"
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "置"
+            },
+            {
+              "degree": 1,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "太"
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "轻"
+            }
+          ]
+        },
+        {
+          "chord": "iii7",
+          "style": "broken",
+          "lyric": "轻得我不敢呼吸",
+          "melody": [
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "轻"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "得"
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 1,
+              "lyric": "我"
+            },
+            {
+              "degree": 1,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "不"
+            },
+            {
+              "degree": 7,
+              "octave": -1,
+              "beats": 0.5,
+              "lyric": "敢"
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "呼"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "吸"
+            }
+          ]
+        },
+        {
+          "chord": "vi7",
+          "style": "broken",
+          "lyric": "把问候放回原地",
+          "melody": [
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "把"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "问"
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 1,
+              "lyric": "候"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "放"
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "回"
+            },
+            {
+              "degree": 1,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "原"
+            },
+            {
+              "degree": 6,
+              "octave": -1,
+              "beats": 0.5,
+              "lyric": "地"
+            }
+          ]
+        },
+        {
+          "chord": "IVmaj7",
+          "style": "broken",
+          "lyric": "怕一碰就有回音",
+          "melody": [
+            {
+              "degree": 1,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "怕"
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "一"
+            },
+            {
+              "degree": 4,
+              "octave": 0,
+              "beats": 1,
+              "lyric": "碰"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "就"
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "有"
+            },
+            {
+              "degree": 1,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "回"
+            },
+            {
+              "degree": 4,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "音"
+            }
+          ]
+        },
+        {
+          "chord": "ii7",
+          "style": "broken",
+          "lyric": "原来沉默不是岸",
+          "melody": [
+            {
+              "degree": 4,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "原"
+            },
+            {
+              "degree": 4,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "来"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 1,
+              "lyric": "沉"
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "默"
+            },
+            {
+              "degree": 1,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "不"
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "是"
+            },
+            {
+              "degree": 4,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "岸"
+            }
+          ]
+        },
+        {
+          "chord": "Vsus4",
+          "style": "mixed",
+          "lyric": "只是我握紧的冰",
+          "melody": [
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "只"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "是"
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 1,
+              "lyric": "我"
+            },
+            {
+              "degree": 1,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "握"
+            },
+            {
+              "degree": 7,
+              "octave": -1,
+              "beats": 0.5,
+              "lyric": "紧"
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "的"
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "冰"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "副歌 · 试着回应",
+      "type": "vocal",
+      "bars": [
+        {
+          "chord": "Iadd9",
+          "style": "mixed",
+          "lyric": "先不问路通哪里",
+          "melody": [
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "先"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "不"
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 1,
+              "lyric": "问"
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "路"
+            },
+            {
+              "degree": 6,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "通"
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "哪"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "里"
+            }
+          ]
+        },
+        {
+          "chord": "V6",
+          "style": "mixed",
+          "lyric": "把脚步还给自己",
+          "melody": [
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "把"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "脚"
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 1,
+              "lyric": "步"
+            },
+            {
+              "degree": 7,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "还"
+            },
+            {
+              "degree": 6,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "给"
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "自"
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "己"
+            }
+          ]
+        },
+        {
+          "chord": "vi7",
+          "style": "broken",
+          "lyric": "没说完的话停一停",
+          "melody": [
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "没"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "说"
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "完"
+            },
+            {
+              "degree": 6,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "的"
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "话"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "停"
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "一"
+            },
+            {
+              "degree": 1,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "停"
+            }
+          ]
+        },
+        {
+          "chord": "IVmaj7",
+          "style": "broken",
+          "lyric": "也算认真地回应",
+          "melody": [
+            {
+              "degree": 4,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "也"
+            },
+            {
+              "degree": 4,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "算"
+            },
+            {
+              "degree": 6,
+              "octave": 0,
+              "beats": 1,
+              "lyric": "认"
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "真"
+            },
+            {
+              "degree": 4,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "地"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "回"
+            },
+            {
+              "degree": 1,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "应"
+            }
+          ]
+        },
+        {
+          "chord": "ii7",
+          "style": "broken",
+          "lyric": "不必把裂缝抚平",
+          "melody": [
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "不"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "必"
+            },
+            {
+              "degree": 4,
+              "octave": 0,
+              "beats": 1,
+              "lyric": "把"
+            },
+            {
+              "degree": 6,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "裂"
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "缝"
+            },
+            {
+              "degree": 4,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "抚"
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "平"
+            }
+          ]
+        },
+        {
+          "chord": "iii7",
+          "style": "broken",
+          "lyric": "不必每次都证明",
+          "melody": [
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "不"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "必"
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 1,
+              "lyric": "每"
+            },
+            {
+              "degree": 7,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "次"
+            },
+            {
+              "degree": 6,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "都"
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "证"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "明"
+            }
+          ]
+        },
+        {
+          "chord": "IVmaj7",
+          "style": "broken",
+          "lyric": "让风从指缝经过",
+          "melody": [
+            {
+              "degree": 4,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "让"
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "风"
+            },
+            {
+              "degree": 6,
+              "octave": 0,
+              "beats": 1,
+              "lyric": "从"
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "指"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "缝"
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "经"
+            },
+            {
+              "degree": 1,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "过"
+            }
+          ]
+        },
+        {
+          "chord": "Iadd9",
+          "style": "block",
+          "lyric": "我还愿意听",
+          "melody": [
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "我"
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "还"
+            },
+            {
+              "degree": 1,
+              "octave": 0,
+              "beats": 1,
+              "lyric": "愿"
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 1,
+              "lyric": "意"
+            },
+            {
+              "degree": 1,
+              "octave": 0,
+              "beats": 1,
+              "lyric": "听"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "间奏 · 继续探路",
+      "type": "instrumental",
+      "bars": [
+        {
+          "chord": "vi7",
+          "style": "broken",
+          "lyric": "",
+          "melody": [
+            {
+              "degree": 6,
+              "octave": -1,
+              "beats": 0.5,
+              "lyric": ""
+            },
+            {
+              "degree": 1,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": ""
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": ""
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": ""
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 1,
+              "lyric": ""
+            },
+            {
+              "degree": 1,
+              "octave": 0,
+              "beats": 1,
+              "lyric": ""
+            }
+          ]
+        },
+        {
+          "chord": "IVmaj7",
+          "style": "broken",
+          "lyric": "",
+          "melody": [
+            {
+              "degree": 1,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": ""
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": ""
+            },
+            {
+              "degree": 4,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": ""
+            },
+            {
+              "degree": 6,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": ""
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 1,
+              "lyric": ""
+            },
+            {
+              "degree": 4,
+              "octave": 0,
+              "beats": 1,
+              "lyric": ""
+            }
+          ]
+        },
+        {
+          "chord": "ii7",
+          "style": "broken",
+          "lyric": "",
+          "melody": [
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": ""
+            },
+            {
+              "degree": 4,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": ""
+            },
+            {
+              "degree": 6,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": ""
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": ""
+            },
+            {
+              "degree": 4,
+              "octave": 0,
+              "beats": 1,
+              "lyric": ""
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 1,
+              "lyric": ""
+            }
+          ]
+        },
+        {
+          "chord": "Vsus4",
+          "style": "mixed",
+          "lyric": "",
+          "melody": [
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": ""
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": ""
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": ""
+            },
+            {
+              "degree": 4,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": ""
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 1,
+              "lyric": ""
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 1,
+              "lyric": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "再唱 · 不必成为别人",
+      "type": "vocal",
+      "bars": [
+        {
+          "chord": "Iadd9",
+          "style": "mixed",
+          "lyric": "旧日的空白还在",
+          "melody": [
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "旧"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "日"
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 1,
+              "lyric": "的"
+            },
+            {
+              "degree": 6,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "空"
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "白"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "还"
+            },
+            {
+              "degree": 1,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "在"
+            }
+          ]
+        },
+        {
+          "chord": "iii7",
+          "style": "broken",
+          "lyric": "不再替我做决定",
+          "melody": [
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "不"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "再"
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 1,
+              "lyric": "替"
+            },
+            {
+              "degree": 7,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "我"
+            },
+            {
+              "degree": 6,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "做"
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "决"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "定"
+            }
+          ]
+        },
+        {
+          "chord": "vi7",
+          "style": "broken",
+          "lyric": "把没寄出的那封信",
+          "melody": [
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "把"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "没"
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "寄"
+            },
+            {
+              "degree": 6,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "出"
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "的"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "那"
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "封"
+            },
+            {
+              "degree": 1,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "信"
+            }
+          ]
+        },
+        {
+          "chord": "IVmaj7",
+          "style": "broken",
+          "lyric": "留给不完美的你",
+          "melody": [
+            {
+              "degree": 4,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "留"
+            },
+            {
+              "degree": 4,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "给"
+            },
+            {
+              "degree": 6,
+              "octave": 0,
+              "beats": 1,
+              "lyric": "不"
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "完"
+            },
+            {
+              "degree": 4,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "美"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "的"
+            },
+            {
+              "degree": 1,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "你"
+            }
+          ]
+        },
+        {
+          "chord": "ii7",
+          "style": "broken",
+          "lyric": "今天只走这一程",
+          "melody": [
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "今"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "天"
+            },
+            {
+              "degree": 4,
+              "octave": 0,
+              "beats": 1,
+              "lyric": "只"
+            },
+            {
+              "degree": 6,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "走"
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "这"
+            },
+            {
+              "degree": 4,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "一"
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "程"
+            }
+          ]
+        },
+        {
+          "chord": "V6",
+          "style": "mixed",
+          "lyric": "不借谁的光作凭",
+          "melody": [
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "不"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "借"
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 1,
+              "lyric": "谁"
+            },
+            {
+              "degree": 7,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "的"
+            },
+            {
+              "degree": 6,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "光"
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "作"
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "凭"
+            }
+          ]
+        },
+        {
+          "chord": "iii7",
+          "style": "broken",
+          "lyric": "允许声音会发颤",
+          "melody": [
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "允"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "许"
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 1,
+              "lyric": "声"
+            },
+            {
+              "degree": 7,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "音"
+            },
+            {
+              "degree": 6,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "会"
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "发"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "颤"
+            }
+          ]
+        },
+        {
+          "chord": "vi7",
+          "style": "broken",
+          "lyric": "也允许脚步会停",
+          "melody": [
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "也"
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "允"
+            },
+            {
+              "degree": 6,
+              "octave": 0,
+              "beats": 1,
+              "lyric": "许"
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "脚"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "步"
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "会"
+            },
+            {
+              "degree": 1,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "停"
+            }
+          ]
+        },
+        {
+          "chord": "IVmaj7",
+          "style": "mixed",
+          "lyric": "原来远方不是奖赏",
+          "melody": [
+            {
+              "degree": 4,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "原"
+            },
+            {
+              "degree": 4,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "来"
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "远"
+            },
+            {
+              "degree": 6,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "方"
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "不"
+            },
+            {
+              "degree": 4,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "是"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "奖"
+            },
+            {
+              "degree": 1,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "赏"
+            }
+          ]
+        },
+        {
+          "chord": "ii7",
+          "style": "broken",
+          "lyric": "是我敢再次动身",
+          "melody": [
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "是"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "我"
+            },
+            {
+              "degree": 4,
+              "octave": 0,
+              "beats": 1,
+              "lyric": "敢"
+            },
+            {
+              "degree": 6,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "再"
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "次"
+            },
+            {
+              "degree": 4,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "动"
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "身"
+            }
+          ]
+        },
+        {
+          "chord": "Vsus4",
+          "style": "mixed",
+          "lyric": "不用变成另一个人",
+          "melody": [
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "不"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "用"
+            },
+            {
+              "degree": 4,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "变"
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "成"
+            },
+            {
+              "degree": 4,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "另"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "一"
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "个"
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "人"
+            }
+          ]
+        },
+        {
+          "chord": "I69",
+          "style": "block",
+          "lyric": "我也能够走下去",
+          "melody": [
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "我"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "也"
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 1,
+              "lyric": "能"
+            },
+            {
+              "degree": 6,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "够"
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "走"
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "下"
+            },
+            {
+              "degree": 1,
+              "octave": 0,
+              "beats": 0.5,
+              "lyric": "去"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "尾奏 · 仍有余地",
+      "type": "instrumental",
+      "bars": [
+        {
+          "chord": "IVmaj7",
+          "style": "broken",
+          "lyric": "",
+          "melody": [
+            {
+              "degree": 6,
+              "octave": 0,
+              "beats": 1,
+              "lyric": ""
+            },
+            {
+              "degree": 5,
+              "octave": 0,
+              "beats": 1,
+              "lyric": ""
+            },
+            {
+              "degree": 4,
+              "octave": 0,
+              "beats": 1,
+              "lyric": ""
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 1,
+              "lyric": ""
+            }
+          ]
+        },
+        {
+          "chord": "ii7",
+          "style": "broken",
+          "lyric": "",
+          "melody": [
+            {
+              "degree": 4,
+              "octave": 0,
+              "beats": 1,
+              "lyric": ""
+            },
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 1,
+              "lyric": ""
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 2,
+              "lyric": ""
+            }
+          ]
+        },
+        {
+          "chord": "Iadd9",
+          "style": "broken",
+          "lyric": "",
+          "melody": [
+            {
+              "degree": 3,
+              "octave": 0,
+              "beats": 1,
+              "lyric": ""
+            },
+            {
+              "degree": 2,
+              "octave": 0,
+              "beats": 1,
+              "lyric": ""
+            },
+            {
+              "degree": 1,
+              "octave": 0,
+              "beats": 2,
+              "lyric": ""
+            }
+          ]
+        },
+        {
+          "chord": "I69",
+          "style": "block",
+          "lyric": "",
+          "melody": [
+            {
+              "degree": 1,
+              "octave": 0,
+              "beats": 4,
+              "lyric": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

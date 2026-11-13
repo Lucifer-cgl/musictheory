@@ -1,0 +1,7 @@
+node_modules/
+test-results/
+playwright-report/
+qa-output/
+
+android-piano/build/
+android-piano/.signing/
