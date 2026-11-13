@@ -7,11 +7,11 @@
 当前版本 **1.2.0**，支持 **Android 8.0 及以上**。
 
 - **[国内加速下载（GHFast）](https://ghfast.top/https://github.com/Lucifer-cgl/musictheory/releases/download/v1.2.0/HarmonyPiano-1.2.0-release.apk)**
-- [备用加速下载（GHProxy）](https://ghproxy.net/https://github.com/Lucifer-cgl/musictheory/releases/download/v1.2.0/HarmonyPiano-1.2.0-release.apk)
+- [备用加速下载（GH-Proxy）](https://gh-proxy.com/https://github.com/Lucifer-cgl/musictheory/releases/download/v1.2.0/HarmonyPiano-1.2.0-release.apk)
 - [GitHub 原始下载](https://github.com/Lucifer-cgl/musictheory/releases/download/v1.2.0/HarmonyPiano-1.2.0-release.apk)
 - [全部版本与发布说明](https://github.com/Lucifer-cgl/musictheory/releases)
 
-加速入口是第三方 GitHub Release 下载代理，并非独立维护的国内安装包仓库；不同网络下可用性可能不同。下载后可用 Release 附带的 SHA-256 文件核对安装包。
+两个加速入口已于2026年11月14日完成整包下载与SHA-256一致性验证。加速入口是第三方 GitHub Release 下载代理，并非独立维护的国内安装包仓库；不同网络下可用性可能不同。下载后可用 Release 附带的 SHA-256 文件核对安装包。
 
 ```text
 ee260ec88734c211fb7a0373caa3767baa17279b427f691b6f8a7cab8876465b  HarmonyPiano-1.2.0-release.apk
